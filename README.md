@@ -1,3 +1,6 @@
+My 11th Teamtreehouse using REACT.JS to build it all, apart from the CSS. You need to request individual key from flickr.com and add it 
+in a fle config.js in order the search app collecting info from flickr.com to work. I still need to practise more working with React.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
